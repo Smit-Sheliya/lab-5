@@ -14,6 +14,6 @@ def upperCase_list(lst):
         lst[lst.index(string)]=newstring        
 
             
-lst=["jay","kiritbhai","patel"]
+lst=["smit","pravinbhai","sheliya"]
 upperCase_list(lst)
 print(lst)
